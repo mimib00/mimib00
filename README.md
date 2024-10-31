@@ -11,6 +11,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@melkia.med.taki](https://medium.com/@melkia.med.taki)
 
+- 💬 Ask me about **Flutter, Rust, SurrealDB**
+
 - 📫 How to reach me **melkia.med.taki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mimib00&show_icons=true&locale=en&layout=compact" alt="mimib00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mimib00&show_icons=true&locale=en" alt="mimib00" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mimib00&" alt="mimib00" /></p>
